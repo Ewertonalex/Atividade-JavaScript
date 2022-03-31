@@ -1,0 +1,6 @@
+function somar(a, b, c) {
+    return a + b + c;
+}
+
+var soma = somar(20, 50, 30);
+console.log(soma)
